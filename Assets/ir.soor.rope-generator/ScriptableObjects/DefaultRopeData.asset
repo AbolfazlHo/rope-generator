@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c606cea9607f4b1a812fbc9c5265bea, type: 3}
+  m_Name: DefaultRopeData
+  m_EditorClassIdentifier: 
+  ropeData:
+    partPrefab: {fileID: 111581540926508874, guid: 609c49de6a399488991c3e28a8bd1e37, type: 3}
+    ropeLength: 5
+    customizeSegmentsDistance: 0
+    segmentsDistance: 0.1
+    setMaterialWhenSpawning: 0
+    segmentsMaterial: {fileID: 0}
+    ropeThickness: 0.1
+    freezeFirstRopePart: 1
+    freezeLastRopePart: 0
