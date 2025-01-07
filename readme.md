@@ -18,7 +18,7 @@ The **Rope Generator** is a Unity package designed to simplify the creation of d
 ### Method 1: Import from GitHub (Recommended)
 
 1. Copy the URL of the `package.json` file from this repository:
-    [**URL of package.json file**]
+    [**package.json**](https://github.com/AbolfazlHo/rope-generator/blob/develop/Assets/ir.soor.rope-generator/package.json)
 2. Open your Unity project.
 3. In Unity Editor, navigate to **Window > Package Manager**.
     ![Package Manager Menu](images/package_manager_menu.png)
