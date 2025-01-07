@@ -11,7 +11,7 @@ The **Rope Generator** is a Unity package designed to simplify the creation of d
 - **Editor Integration:** Use the provided editor window to set parameters, generate ropes, and control physics simulations directly within Unity.
 - **Dynamic Physics:** Ropes are composed of interconnected "rope segments" using Unity's `CharacterJoint` components, ensuring realistic physics behavior (e.g., rope bending and collision).
 
----
+
 
 ## Installation
 
@@ -30,7 +30,7 @@ Unity will download and install the package and its dependencies.
 
 **Watch the installation process on YouTube:** [Link to YouTube video]
 
----
+
 
 ### Method 2: Import from Unity Asset Store
 
@@ -43,7 +43,7 @@ Unity will download and install the package and its dependencies.
 
 **Watch the Asset Store installation process on YouTube:** [Link to YouTube video]
 
----
+
 
 ## Setup Before Use
 
@@ -55,7 +55,7 @@ Before using the package, update Unity's time settings:
 
 **Watch the setup process on YouTube:** [Link to YouTube video]
 
----
+
 
 ## How to Use the Package
 
@@ -68,7 +68,7 @@ Before using the package, update Unity's time settings:
 
 **Watch the usage guide for Edit Mode on YouTube:** [Link to YouTube video]
 
----
+
 
 ### In Play Mode
 
@@ -76,7 +76,7 @@ You can dynamically generate ropes in Play Mode by calling the constructor metho
 
 **Watch the Play Mode usage guide on YouTube:** [Link to YouTube video]
 
----
+
 
 ## Contribution
 
@@ -85,13 +85,13 @@ Contributions are welcome!
 - Fork the `main` branch, make your changes, and submit a pull request.
 - Share your feedback or record videos showcasing your use of the package.
 
----
+
 
 ## Special Thanks
 
 Special thanks to the [Smon YouTube Channel](https://www.youtube.com/watch?v=pKSUhsyrj_4), whose tutorial inspired the development of this package.
 
----
+
 
 ## License
 
