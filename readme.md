@@ -1,7 +1,7 @@
 
-#Rope Generator Unity Package
+# Rope Generator Unity Package
 
-##Description
+## Description
 
 The **Rope Generator** is a Unity package designed to simplify the creation of dynamic ropes in Unity projects. This package allows you to easily generate customizable ropes with adjustable width, length, and material in both Edit Mode and Play Mode.
 
@@ -82,7 +82,7 @@ You can dynamically generate ropes in Play Mode by calling the constructor metho
 
 Contributions are welcome!
 
-- Fork the `develop` branch, make your changes, and submit a pull request.
+- Fork the `main` branch, make your changes, and submit a pull request.
 - Share your feedback or record videos showcasing your use of the package.
 
 ---
@@ -95,5 +95,5 @@ Special thanks to the [Smon YouTube Channel](https://www.youtube.com/watch?v=pKS
 
 ## License
 
-This project is
+This project is licensed under the MIT License.
 
