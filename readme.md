@@ -22,9 +22,11 @@ The **Rope Generator** is a Unity package designed to simplify the creation of d
 
 2. Open your Unity project.
 3. In Unity Editor, navigate to **Window > Package Manager**.
+
     ![Package Manager Menu](images/package_manager_menu.png)
 4. Click the **+** icon in the top-left corner of the Package Manager and select **"Add package from Git URL"**.
 5. Paste the copied URL and click **"Add"**.
+
     ![Add Package from Git URL](images/add_package_from_git_url.png)
 
 Unity will download and install the package and its dependencies.
@@ -52,6 +54,7 @@ Before using the package, update Unity's time settings:
 
 1. Navigate to **Edit > Project Settings > Time**.
 2. Adjust the parameters as shown:
+
     ![Time Settings](images/time_settings.png)
 
 **Watch the setup process on YouTube:** [Link to YouTube video]
@@ -64,7 +67,9 @@ Before using the package, update Unity's time settings:
 
 1. After installation, you'll find a new menu item: **Tools > Rope Editor**.
 2. Open the **Rope Editor** window to configure parameters and generate ropes.
+
     ![Tools Menu](images/tools_menu.png)
+    
     ![Rope Editor Window](images/rope_editor_window.png)
 
 **Watch the usage guide for Edit Mode on YouTube:** [Link to YouTube video]
