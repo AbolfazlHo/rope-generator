@@ -31,11 +31,11 @@ The **Rope Generator** is a Unity package designed to simplify the creation of d
 
 Unity will download and install the package and its dependencies.
 
-**Watch the installation process on YouTube:** [Link to YouTube video]
+**Watch the installation process on** [YouTube](https://youtu.be/W2dF7CE32oY)
 
 
 
-### Method 2: Import from Unity Asset Store
+### Method 2: Import from Unity Asset Store (It's not available yet)
 
 1. Open your Unity project.
 2. Go to [Unity Asset Store](https://assetstore.unity.com/) and search for "Character Joint Based Rope Generator."
