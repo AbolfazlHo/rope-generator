@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: DefaultRopeData
   m_EditorClassIdentifier: 
   ropeData:
-    partPrefab: {fileID: 111581540926508874, guid: 609c49de6a399488991c3e28a8bd1e37, type: 3}
+    segmentPrefab: {fileID: 111581540926508874, guid: 609c49de6a399488991c3e28a8bd1e37, type: 3}
     ropeLength: 5
     customizeSegmentsDistance: 0
     segmentsDistance: 0.1
     setMaterialWhenSpawning: 0
     segmentsMaterial: {fileID: 0}
     ropeThickness: 0.1
-    freezeFirstRopePart: 1
-    freezeLastRopePart: 0
+    freezeFirstRopeSegment: 0
+    freezeLastRopeSegment: 0
