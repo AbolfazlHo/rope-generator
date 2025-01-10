@@ -72,7 +72,7 @@ Before using the package, update Unity's time settings:
     
     ![Rope Editor Window](images/rope_editor_window.png)
 
-**Watch the usage guide for Edit Mode on YouTube:** [Link to YouTube video]
+**Watch the usage guide for Edit Mode** [ here ](https://youtu.be/VUtRpSNXcN4) or [ here ](https://youtu.be/b6mohiijjOk)
 
 
 
@@ -80,7 +80,7 @@ Before using the package, update Unity's time settings:
 
 You can dynamically generate ropes in Play Mode by calling the constructor method of the rope class in your scripts.
 
-**Watch the Play Mode usage guide** [ here ](https://youtu.be/VUtRpSNXcN4) or [ here ](https://youtu.be/b6mohiijjOk)
+**Watch the Play Mode usage guide** [ Youtube link]
 
 
 
