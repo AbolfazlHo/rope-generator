@@ -80,7 +80,7 @@ Before using the package, update Unity's time settings:
 
 You can dynamically generate ropes in Play Mode by calling the constructor method of the rope class in your scripts.
 
-**Watch the Play Mode usage guide on YouTube:** [Link to YouTube video]
+**Watch the Play Mode usage guide** [ here ](https://youtu.be/VUtRpSNXcN4) or [ here ](https://youtu.be/b6mohiijjOk)
 
 
 
