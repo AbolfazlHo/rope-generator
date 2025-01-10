@@ -57,7 +57,7 @@ Before using the package, update Unity's time settings:
 
     ![Time Settings](images/time_settings.png)
 
-**Watch the setup process on YouTube:** [Link to YouTube video]
+**Watch the setup process on** [YouTube](https://youtu.be/_cYPLn0BSZs)
 
 
 
