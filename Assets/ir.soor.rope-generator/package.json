@@ -1,7 +1,7 @@
 {
     "name": "ir.soor.rope-generator",
     "displayName": "Rope Generator",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "unity": "2019.3",
     "unityRelease": "0a8",
     "description": "Use this package to generate customizable 3D ropes.",
