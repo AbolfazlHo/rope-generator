@@ -20,7 +20,8 @@ namespace Soor.RopeGenerator
         {
             return Application.dataPath.Remove(Application.dataPath.Length - 6, 6);
         }
-        
+
+#if UNITY_EDITOR
         ///<summary>
         /// Adds a visual separator and label to separate the target section from the latest section in the editor window.
         ///</summary>
@@ -31,6 +32,7 @@ namespace Soor.RopeGenerator
             EditorGUILayout.LabelField(sectionName);
             EditorGUILayout.Space();
         }
-
+#endif
+        
     }
 }
