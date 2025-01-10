@@ -80,7 +80,7 @@ Before using the package, update Unity's time settings:
 
 You can dynamically generate ropes in Play Mode by creating an instance of the Rope class and call the `SpawnRope()` method within your scripts.
 
-**Watch the Play Mode usage guide on** [Youtube](https://youtu.be/l4Sq6OEX6jI)
+**Watch the Play Mode usage guide on** [Youtube](https://youtu.be/YOJNTRXfb9g)
 
 
 
