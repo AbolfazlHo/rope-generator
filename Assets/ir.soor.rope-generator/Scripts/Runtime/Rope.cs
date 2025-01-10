@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
@@ -62,6 +63,10 @@ namespace Soor.RopeGenerator
             var ropeSegmentCount = (int) (_ropeData.ropeLength / _ropeData.segmentsDistance);
             SpawnAllRopeSegments(ropeSegmentCount);
             PrepareLastRopeSegment();
+
+#if !UNITY_EDITOR
+            WakeUpAllRopeSegments();
+#endif
         }
         
         /// <summary>
@@ -170,5 +175,15 @@ namespace Soor.RopeGenerator
         {
             rigidbody.constraints = RigidbodyConstraints.FreezePosition;
         }
+        
+        /// <summary>
+        /// Activates physics simulation for all Rigidbody components attached to the rope segments.
+        /// </summary>
+        private void WakeUpAllRopeSegments()
+        {
+            var ropeSegmentsRigidBody = _ropeParent.GetComponentsInChildren<Rigidbody>();
+            foreach (var segmetnRigidbody in ropeSegmentsRigidBody) segmetnRigidbody.WakeUp();
+        }
+        
     }
 }
