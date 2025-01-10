@@ -34,7 +34,7 @@ Unity will download and install the package and its dependencies.
 **Watch the installation process on** [YouTube](https://youtu.be/W2dF7CE32oY)
 
 
-
+<!--
 ### Method 2: Import from Unity Asset Store (It's not available yet)
 
 1. Open your Unity project.
@@ -45,7 +45,7 @@ Unity will download and install the package and its dependencies.
 4. Unity will open the Package Manager and display the package. Click **"Download and Install"**.
 
 **Watch the Asset Store installation process on YouTube:** [Link to YouTube video]
-
+-->
 
 
 ## Setup Before Use
